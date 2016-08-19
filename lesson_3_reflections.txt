@@ -1,1 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
 
+A remote repository creates a backup that is "off-site" in case of a local failure your data isn't lost.  
+Also it allows multiple people to colaborate easily.
